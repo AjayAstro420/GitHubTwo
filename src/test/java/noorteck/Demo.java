@@ -6,8 +6,9 @@ public class Demo {
 		
 		System.out.println("This should be it");
 		
+		System.out.println("This is another one");
 		
-		
+		System.out.println("This is the third");
 	}
 
 }
